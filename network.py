@@ -8,7 +8,7 @@ filename = ""
 
 # 1. Accept the input word
 # Some sanity checking
-if ( len(sys.argv) > 1):
+if ( len(sys.argv) > 2):
 	word 		= sys.argv[1]
 	filename 	= sys.argv[2] 
 
